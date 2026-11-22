@@ -1,8 +1,8 @@
 {
-  "version_code": 6,
-  "version_name": "0.6.0",
+  "version_code": 7,
+  "version_name": "0.7.0",
   "native_code": 1,
   "apk_url": "https://github.com/mirzaguliyevemin-web/mythtower/releases/latest/download/mythtower.apk",
-  "pck_url": "https://github.com/mirzaguliyevemin-web/mythtower-version/releases/download/pck-v6/mythtower.pck",
-  "pck_sha256": "9813d7f6d309759e6533f05c0be4fbf37d78f6f9e0b8280a4dcec2d596423872"
+  "pck_url": "https://github.com/mirzaguliyevemin-web/mythtower-version/releases/download/pck-v7/mythtower.pck",
+  "pck_sha256": "344b37c22d98d08cc620a2f6a1c6e26fd4b0826262fea398e7bb105822452963"
 }
