@@ -1,8 +1,8 @@
 {
-  "version_code": 8,
-  "version_name": "0.8.0",
+  "version_code": 9,
+  "version_name": "0.8.1",
   "native_code": 1,
-  "apk_url": "https://github.com/mirzaguliyevemin-web/mythtower/releases/latest/download/mythtower.apk",
-  "pck_url": "https://github.com/mirzaguliyevemin-web/mythtower-version/releases/download/pck-v8/mythtower.pck",
-  "pck_sha256": "b7b402d98cb26f925cc314523a7223e1542d1702df179acaa7daa1be4fadabb5"
+  "apk_url": "https://mythtower.aze-apps.de/mythtower.apk",
+  "pck_url": "https://mythtower.aze-apps.de/pck/content-v9.pck",
+  "pck_sha256": "97195e809c00384bb40ea0a7dffe99001c1f4f5793650aabbca8ee02e2a92715"
 }
