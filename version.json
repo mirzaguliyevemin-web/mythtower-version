@@ -1,8 +1,8 @@
 {
-  "version_code": 29,
-  "version_name": "0.23.2",
+  "version_code": 30,
+  "version_name": "0.23.3",
   "native_code": 1,
   "apk_url": "https://mythtower.aze-apps.de/mythtower.apk",
-  "pck_url": "https://mythtower.aze-apps.de/pck/content-v29.pck",
-  "pck_sha256": "ebdb85d7e1120c1f47c2e84544e4a186a376e2605e5d9716919179bd0289336b"
+  "pck_url": "https://mythtower.aze-apps.de/pck/content-v30.pck",
+  "pck_sha256": "40a9f9195a6b85fa3141231f78a9e716c83b12076aebaa21bcca66d1a4590f18"
 }
